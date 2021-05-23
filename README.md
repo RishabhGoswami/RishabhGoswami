@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Python and Programming
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... rpkagoswmai@gmail.com
-- ⚡ Fun fact: ... I am more than 1% more than yesterday
+- ⚡ Fun fact: ... I am 1% more than yesterday
