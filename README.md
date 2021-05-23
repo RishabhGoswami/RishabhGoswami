@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align='center' width='22px' src='Desktop/a.png'/>]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
