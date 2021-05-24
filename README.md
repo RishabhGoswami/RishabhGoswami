@@ -1,3 +1,11 @@
+<img align ='right' src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
+
+
+<br/>
+<br/>
+<br/>
+
+
 ### Hi there I am Rishabh👋
 
 Here are some ideas to get you started:
