@@ -11,10 +11,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Python and Programming
+
 - 🌱 I’m currently learning ... Everything 🤣
+
 - 👯 I’m looking to collaborate on ... Django 
+
 - 🤔 I’m looking for help with ... Python
+
 - 💬 Ask me about ... Anything
+
 - ⚡ Fun fact: ... I am 1% more than yesterday
 
 <p> <img src="https://komarev.com/ghpvc/?username=RishabhGoswami" �/>  👀  </p>
