@@ -1,14 +1,9 @@
 <img align ='right' src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
 
 
-<br/>
-<br/>
-<br/>
+<h1 align="center" margin-top='10px'>Hi 👋, I'm Rishabh Goswami</h1>
 
-
-### Hi there I am Rishabh👋
-
-Here are some ideas to get you started:
+<h2 align="center">I'm Backend Developer and Programmer</h2>
 
 - 🔭 I’m currently working on ... Python and Programming
 
