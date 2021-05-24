@@ -1,4 +1,4 @@
-### Hi there I am Rishabh👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalch" alt="aanchalch" /> </p>### Hi there I am Rishabh👋
 
 Here are some ideas to get you started:
 
@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... I am 1% more than yesterday
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RishabhGoswami" /> </p>
 
 
 ### Connect with me...
