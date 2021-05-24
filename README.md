@@ -3,7 +3,7 @@
 
 <h1 align="center" margin-top='10px'>Hi 👋, I'm Rishabh Goswami</h1>
 
-<h2 align="center">I'm Backend Developer and Programmer</h2>
+<h2 align="center">I'm a Backend Developer and Programmer</h2>
 
 - 🔭 I’m currently working on ... Python and Programming
 
