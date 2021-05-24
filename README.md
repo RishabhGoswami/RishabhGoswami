@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: ... I am 1% more than yesterday
 
-<p> <img src="https://komarev.com/ghpvc/?username=RishabhGoswami" �/>  👀  </p>
+<p> <img src="https://komarev.com/ghpvc/?username=RishabhGoswami" /></p>
 
 
 ### Connect with me...
@@ -25,6 +25,7 @@
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br/>
 
 ### Languages and tools...
