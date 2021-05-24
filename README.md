@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalch" alt="aanchalch" /> </p>### Hi there I am Rishabh👋
+### Hi there I am Rishabh👋
 
 Here are some ideas to get you started:
 
