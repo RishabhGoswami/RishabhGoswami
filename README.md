@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 
 [website]: https://github.com/RishabhGoswami
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/presenting_u_rishabh_/
 [linkedin]: https://www.linkedin.com/in/rishabh-goswami-78598a1a7/
